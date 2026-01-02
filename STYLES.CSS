@@ -1,0 +1,15 @@
+body{
+    font-family:Arial;
+    background-color :rgba(255, 168, 182, 0.712) ;
+    color: rgb(255, 0, 43); 
+}
+h1{
+    color:red;
+}
+#welcomeHeader{
+    color:red;
+}
+#profilePicture{
+ width: 100cm;
+ height:100cm;
+}
