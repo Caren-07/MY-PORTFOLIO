@@ -1,1 +1,60 @@
-# MY-PORTFOLIO
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="resource/styles.css">
+</head>
+<body>
+    <article>
+        <div style="text-align: center;">
+        <img id="profilePicture.jpg" src="assets/profilePicture.jpg" width="500" height="300" is my profile picture.">
+        <h1 id="welcome-header">
+            Welcome to my Portfolio, I am Caren S. Rosales
+        </h1>
+        <p>
+            My name is Caren San Jose Rosales, and I am 19 years old. I am from San Pablo City, Laguna, and I am currently enrolled at the Laguna State Polytechnic University – San Pablo City Campus (LSPU-SPCC). I am pursuing a degree in Bachelor of Science in Information Technology (BSIT).
+
+Also planning to take the Web and Mobile Development once i reach 3rd year and also if i survived haha.
+        </p>
+    </article>
+<hr>
+</section>
+<div style="text-align: center;">
+<h1>
+    About me.
+</h1>
+<p>
+    You all guys can call me Ren for short. I chose this program because I am deeply interested in technology and its role in shaping the future. I aim to strengthen my skills in programming, system development, and innovation, while also cultivating discipline, perseverance, and responsibility as part of my academic journey.
+
+Beyond academics, I enjoy engaging in activities that help me balance my studies and personal growth. My hobbies include reading books, listening to music, exploring new technologies, and playing sports. These interests not only allow me to relax but also inspire creativity and continuous learning.
+
+My aspiration is to become a competent IT professional who can contribute to solving real-world challenges through technology. I look forward to gaining knowledge, collaborating with peers, and striving for excellence in both my academic and personal endeavors.
+</p>
+<section>
+    <hr>
+    <div>
+        <h3>
+            My hobbies are:
+        </h3>
+        <ul>
+            <li>• Watching movies</li>
+            <li>• Cooking</li>
+            <li>• Strolling</li>
+        </ul>
+    </div>
+    <hr>
+   <footer>
+    <h2>Contact Me </h2>
+    <p>Mobile Number:09123166451</p>
+    <p>Facebook:   <a href="https://www.facebook.com/azhel.rae" target="_blank">
+        Caren San Jose Rosales
+    <a>
+
+    <p></strong>Email: 0325-1260@lspu.edu.ph</p>
+    <p>Caren San Jose Rosales <br> All Rights Reserved @ 2026 </p>
+   </footer>
+</section>
+</body>
+</html>
